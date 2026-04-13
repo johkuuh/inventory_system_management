@@ -1,7 +1,8 @@
 # Inventory Management System (PHP & MySQL)
 
 A simple Finnish-language inventory management system built with PHP and MySQL.  
-The application interface is in Finnish, while the codebase is written in English.  
+The application interface is in Finnish, while the codebase is written in English.
+The application uses JavaScript for frontend interactivity and UI enhancements.
 The project focuses on database integration and practical web development.
 
 ---
