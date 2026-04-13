@@ -84,4 +84,4 @@ http://localhost/inventory_system_management
 
 ## 🤝 About Me
 
-I am a software developer and IT student with an interest in UI/UX design and user-centered solutions. This project is part of my learning journey in web development.
+I am a software developer and Information Technology student (BBA) with an interest in UI/UX design and user-centered solutions. This project is part of my learning journey in web development.
